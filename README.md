@@ -4,9 +4,12 @@
 
 ![Login page](img/Screenshot_1614982902.png)
 
-The main activity is login page.
+The first activity is login page.
+
 You can log with :
+
 	Username : Jean
+
 	Password : superPASSWORD1234
 
 ![Main page](img/Screenshot_1614982929.png)
