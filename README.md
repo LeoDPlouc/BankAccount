@@ -2,19 +2,19 @@
 
 # Overview
 
-[Login page](img/Screenshot_1614982902.png)
+![Login page](img/Screenshot_1614982902.png)
 
 The main activity is login page.
 You can log with :
 	Username : Jean
 	Password : superPASSWORD1234
 
-[Main page](img/Screenshot_1614982929.png)
+![Main page](img/Screenshot_1614982929.png)
 
 Once you are logged you can see the balance of the selected account.
 
-[Select account](img/Screenshot_1614982931.png)
-[Select account](img/Screenshot_1614982936.png)
+![Select account](img/Screenshot_1614982931.png)
+![Select account](img/Screenshot_1614982936.png)
 
 You can select another account using the spinner.
 
